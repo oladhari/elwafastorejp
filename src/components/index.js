@@ -1,13 +1,13 @@
-import Navbar from "./Navbar";
 import Billing from "./Billing";
-import CardDeal from "./CardDeal";
 import Business from "./Business";
-import Clients from "./Clients";
 import CTA from "./CTA";
-import Stats from "./Stats";
+import CardDeal from "./CardDeal";
+import Clients from "./Clients";
 import Footer from "./Footer";
-import Testimonials from "./Testimonials";
 import Hero from "./Hero";
+import Navbar from "./Navbar";
+import Products from "./Products";
+import Stats from "./Stats";
 
 export {
   Navbar,
@@ -18,6 +18,6 @@ export {
   CTA,
   Stats,
   Footer,
-  Testimonials,
+  Products,
   Hero,
 };
