@@ -1,5 +1,4 @@
-import { deal, discount } from "../assets";
-
+import { deal } from "../assets";
 import styles from "../style";
 
 const Hero = () => {

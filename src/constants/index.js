@@ -1,11 +1,7 @@
 import {
   advice,
-  airbnb,
   aluminium,
-  binance,
-  coinbase,
   communication,
-  dropbox,
   espressocoffee,
   facebook,
   flour,
@@ -153,90 +149,6 @@ export const feedback = [
   },
 ];
 
-export const stats = [
-  {
-    id: "stats-1",
-    title: "User Active",
-    value: "3800+",
-  },
-  {
-    id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
-  },
-  {
-    id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
-  },
-];
-
-export const footerLinks = [
-  {
-    title: "Useful Links",
-    links: [
-      {
-        name: "Content",
-        link: "https://www.Elwafastore.com/content/",
-      },
-      {
-        name: "How it Works",
-        link: "https://www.Elwafastore.com/how-it-works/",
-      },
-      {
-        name: "Create",
-        link: "https://www.Elwafastore.com/create/",
-      },
-      {
-        name: "Explore",
-        link: "https://www.Elwafastore.com/explore/",
-      },
-      {
-        name: "Terms & Services",
-        link: "https://www.Elwafastore.com/terms-and-services/",
-      },
-    ],
-  },
-  {
-    title: "Community",
-    links: [
-      {
-        name: "Help Center",
-        link: "https://www.Elwafastore.com/help-center/",
-      },
-      {
-        name: "Partners",
-        link: "https://www.Elwafastore.com/partners/",
-      },
-      {
-        name: "Suggestions",
-        link: "https://www.Elwafastore.com/suggestions/",
-      },
-      {
-        name: "Blog",
-        link: "https://www.Elwafastore.com/blog/",
-      },
-      {
-        name: "Newsletters",
-        link: "https://www.Elwafastore.com/newsletters/",
-      },
-    ],
-  },
-  {
-    title: "Partner",
-    links: [
-      {
-        name: "Our Partner",
-        link: "https://www.Elwafastore.com/our-partner/",
-      },
-      {
-        name: "Become a Partner",
-        link: "https://www.Elwafastore.com/become-a-partner/",
-      },
-    ],
-  },
-];
-
 export const socialMedia = [
   {
     id: "social-media-1",
@@ -257,24 +169,5 @@ export const socialMedia = [
     id: "social-media-4",
     icon: linkedin,
     link: "https://www.linkedin.com/",
-  },
-];
-
-export const clients = [
-  {
-    id: "client-1",
-    logo: airbnb,
-  },
-  {
-    id: "client-2",
-    logo: binance,
-  },
-  {
-    id: "client-3",
-    logo: coinbase,
-  },
-  {
-    id: "client-4",
-    logo: dropbox,
   },
 ];
